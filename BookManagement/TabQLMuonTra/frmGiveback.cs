@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace BookManagement
+namespace BookManagement.TabQLMuonTra
 {
-    public partial class Form1 : Form
+    public partial class frmGiveback : Form
     {
-        public Form1()
+        public frmGiveback()
         {
             InitializeComponent();
         }
