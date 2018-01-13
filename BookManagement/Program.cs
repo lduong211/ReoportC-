@@ -4,6 +4,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using BookManagement.Forms;
+using BookManagementBUS;
+using BookManagementDAL;
 namespace BookManagement
 {
     static class Program
